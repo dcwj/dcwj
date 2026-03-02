@@ -51,7 +51,6 @@ I’ve had the privilege of building core infrastructure for the decentralized w
 ### $\color{#5865F2}{\text{⌈  Get in Touch ⌋}}$
 
 * **Twitter (X)**: [@dcwj](https://x.com/dcwj) 🐦
-* **GitHub**: [@danielcolinjames](https://github.com/danielcolinjames) 💾
 * **Medium**: [dcj.medium.com](https://dcj.medium.com) ✍️
 * **Email**: [dcj@hey.com](mailto:dcj@hey.com) 📧
 * **EVM**: [0x4838B106FCe9647Bdf1E7877BF73cE8B0BAD5f97](https://etherscan.io/address/0x4838b106fce9647bdf1e7877bf73ce8b0bad5f97) Ξ
